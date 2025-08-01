@@ -3,7 +3,7 @@
 minute details easily and proper database security accordingly to the user. They 
 requires software, which will store data about members, employees, products, 
 payroll, receipts of members etc & all transactions that occur in Gym and lock-up 
-with graphical user interface(GUI).
+with graphical user interface (GUI).
 
 # Hardware specification:
 • MySQL
